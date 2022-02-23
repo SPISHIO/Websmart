@@ -1,0 +1,141 @@
+button,
+            input {
+                font-family: "Roboto", sans-serif;
+            }
+            #headerTable {
+                width: 100%;
+                background-color: gray;
+            }
+            .logo {
+                width: 80px;
+                background-color: blue;
+            }
+            main {
+                min-height: 100vh;
+            }
+            nav {
+                margin-right: 16px;
+            }
+            a {
+                margin-right: 16px;
+                text-decoration: none;
+                color: black;
+            }
+            video {
+                width: 100%;
+                height: 20%;
+                object-fit: initial;
+            }
+            #mainTable {
+                width: 100%;
+                background-color: black;
+            }
+            #userImage {
+                width: 400px;
+                height: 520px;
+                margin: 16px;
+                padding-right: 10%;
+            }
+            .bioBox {
+                width: 70%;
+                text-align: left;
+                font-family: 'Times New Roman', Times, serif;
+                background-color: rgb(154, 175, 184);
+                
+                
+            }
+            .btn {
+                padding-top: 10px;
+                padding-bottom: 10px;
+                padding-left: 20px;
+                padding-right: 20px;
+                border-radius: 10px;
+                font-size: medium;
+                background-color: darksalmon;
+            }
+            .footerText {
+                text-align: center;
+                color: white;
+            }
+            footer {
+                background-color: grey;
+                height: 50px;
+            }
+
+            video.controls poster{
+                    height: fit-content;
+            }
+
+            #headerTable {
+                width: 100%;
+                background-color: grey;
+         }
+         .logo {
+                width: 80px;
+                background-color: rgb(38, 74, 141);}
+        main {
+                min-height: 100vh;
+        }
+        nav {
+                margin-right: 16px;
+            }
+         a {
+                 margin-right: 16px;
+                 text-decoration: none;
+                 color: black;
+         }
+
+         body{
+            background-image: url("BRAIN.jpg");
+         }
+           
+         
+
+
+
+
+
+
+
+
+         
+/* Style the video: 100% width and height to cover the entire window */
+#myVideo {
+    Position: fixed;
+    Right: 0;
+    Bottom: 0;
+    Min-width: 10%;
+    Min-height: 40%;
+  }
+  
+  /* Add some content at the bottom of the video/page */
+  .content {
+    Position: fixed;
+    Bottom: 0;
+    Background: rgba(0, 0, 0, 0.5);
+    Color: #f1f1f1;
+    Width: 100%;
+    Padding: 20px;
+  }
+  
+  /* Style the button used to pause/play the video */
+  #myBtn {
+    Width: 200px;
+    Font-size: 18px;
+    Padding: 10px;
+    Border: none;
+    Background: #000;
+    Color: #fff;
+    Cursor: pointer;
+  }
+  
+  #myBtn:hover {
+    Background: #ddd;
+    Color: black;
+  }
+  
+         
+         
+
+
+         
